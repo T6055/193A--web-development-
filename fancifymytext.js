@@ -1,5 +1,5 @@
 function makeBigger() {
-    alert("Hello, world!"); // Display alert when the "Bigger!" button is clicked
+    alert("Hello, World!"); // Display alert when the "Bigger!" button is clicked
     document.getElementById("textArea").style.fontSize = "24pt"; // Changes the font size of the text area
 }
 
