@@ -2,7 +2,6 @@
   "use strict";
 
   window.addEventListener("load", init);
-
   function init() {
       document.getElementById("encrypt-it").addEventListener("click", handleClick);
       document.getElementById("reset").addEventListener("click", handleReset);

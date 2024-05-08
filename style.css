@@ -152,8 +152,6 @@ select {
   font-size: 12pt;
 }
 
-/* Fieldset */
-
 button, fieldset, select, textarea, #result {
   border-radius: 5pt;
 }

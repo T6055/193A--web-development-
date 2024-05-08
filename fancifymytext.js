@@ -26,3 +26,4 @@ function mooText() {
     }
     document.getElementById("textArea").value = sentences.join(". ");
 }
+
